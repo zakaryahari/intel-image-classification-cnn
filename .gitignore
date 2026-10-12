@@ -1,0 +1,17 @@
+# Virtual Environment
+venv/
+__pycache__/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Data and Models (Too large for GitHub)
+data/
+models/
+*.h5
+*.keras
+*.hdf5
+
+# OS files
+.DS_Store
+Thumbs.db
